@@ -2415,6 +2415,9 @@
       "script": "cufon-yui\\.js",
       "website": "http://cufon.shoqolate.com"
     },
+    "crossfilter": {
+      "script": "crossfilter(?:.min)?.js"
+    },
     "D3": {
       "cats": [
         25
