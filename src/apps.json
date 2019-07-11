@@ -2416,7 +2416,8 @@
       "website": "http://cufon.shoqolate.com"
     },
     "crossfilter": {
-      "script": "crossfilter(?:.min)?.js"
+      "script": "crossfilter(?:\\.min)?\\.js",
+      "website": "https://crossfilter.github.io/crossfilter/"
     },
     "D3": {
       "cats": [
